@@ -1,0 +1,7 @@
+{
+  "name": "fw2956-card",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
